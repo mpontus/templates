@@ -1,0 +1,12 @@
+{
+  "name": "yarn-hello",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "description": "",
+  "scripts": {
+    "build": "echo \"Error: no build command specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "packageManager": "yarn@3.2.1"
+}
